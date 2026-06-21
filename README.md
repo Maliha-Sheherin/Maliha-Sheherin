@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm Maliha 👋  <br>I'm an aspiring **Data Analyst / Business Analyst** passionate about working with data and building projects that solve real business problems. I’m currently improving my skills in **Python, SQL, Excel, and Power BI** through hands-on projects focused on data cleaning, analysis, visualization, and dashboard creation.<br><br>- 🔭 I’m currently working on **Data Analytics projects using Python, SQL, Excel, and Power BI**<br>- 👯 I’m looking to collaborate on **Data Analysis, Dashboard, and SQL/Python projects**<br>- 🤝 I’m looking for help with **improving project quality, analytics case studies, and interview preparation**<br>- 🌱 I’m currently learning **advanced SQL, Python for data analysis, Power BI, and business problem solving**<br>- 💬 Ask me about **Excel, SQL , Python data analysis, dashboards, and beginner data projects**<br>- ⚡ Fun fact: **I enjoy turning messy datasets into meaningful insights and visual stories**
+<br><br>Hi, I'm Maliha 👋  <br>I’m an aspiring **Data Analyst** with knowledge of **Python, SQL, Excel, and Power BI**.  <br>I’m interested in analyzing data, finding patterns, and building dashboards that help in better decision-making.<br><br>Currently, I’m working on strengthening my portfolio through practical projects focused on **data analysis, visualization, and business problem solving**, while preparing for entry-level roles in the analytics field.
 
 
 ## 🌐 Socials:
@@ -16,3 +16,4 @@
 [![](https://komarev.com/ghpvc/?username=Maliha-Sheherin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
